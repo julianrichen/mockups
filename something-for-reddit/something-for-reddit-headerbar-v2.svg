@@ -29,9 +29,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="816.88096"
-     inkscape:cy="793.73743"
+     inkscape:zoom="0.5"
+     inkscape:cx="1204.6992"
+     inkscape:cy="482.68164"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1879,7 +1879,7 @@
          id="tspan9263"
          sodipodi:role="line">&quot;Add Friend&quot; and &quot;Send Message&quot;</tspan></text>
     <g
-       transform="matrix(0,-1,1,0,1752.1901,4160.4976)"
+       transform="matrix(0,-1,1,0,1752.1901,4208.8486)"
        id="g9270">
       <path
          sodipodi:nodetypes="cccc"
@@ -1897,12 +1897,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text9276"
-       y="-16.512259"
+       y="31.838772"
        x="498.74899"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:22.5px;fill:#2e3436;fill-opacity:1"
-         y="-16.512259"
+         y="31.838772"
          x="498.74899"
          id="tspan9278"
          sodipodi:role="line">&quot;Subscribed Users&quot; &amp; &quot;Live Users&quot;</tspan></text>
